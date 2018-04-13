@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		161BD8D0207B638B00D21F73 /* snake.png in Resources */ = {isa = PBXBuildFile; fileRef = 161BD8CF207B638B00D21F73 /* snake.png */; };
 		184444CE1794437E00E5B61D /* UIImage+FloodFill.m in Sources */ = {isa = PBXBuildFile; fileRef = 184444CD1794437E00E5B61D /* UIImage+FloodFill.m */; };
 		188052FD1797F95A00503DA7 /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = 188052FC1797F95A00503DA7 /* star.png */; };
 		18B5B71417952AD80060B582 /* LinkedListStack.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B71317952AD80060B582 /* LinkedListStack.m */; };
@@ -29,6 +30,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		161BD8CF207B638B00D21F73 /* snake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = snake.png; path = ../../Images/snake.png; sourceTree = "<group>"; };
 		184444CC1794437E00E5B61D /* UIImage+FloodFill.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+FloodFill.h"; sourceTree = "<group>"; };
 		184444CD1794437E00E5B61D /* UIImage+FloodFill.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+FloodFill.m"; sourceTree = "<group>"; };
 		188052FC1797F95A00503DA7 /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 		184AEFEF1796C64000468401 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				161BD8CF207B638B00D21F73 /* snake.png */,
 				369C49792023107D00FD64B5 /* thor.jpeg */,
 				369C497520230B7D00FD64B5 /* toys.jpg */,
 				369C497320230AE900FD64B5 /* home.png */,
@@ -204,6 +207,7 @@
 			files = (
 				18BB5860179441110025F8DB /* InfoPlist.strings in Resources */,
 				18BB5868179441110025F8DB /* Default.png in Resources */,
+				161BD8D0207B638B00D21F73 /* snake.png in Resources */,
 				18BB586A179441110025F8DB /* Default@2x.png in Resources */,
 				18BB586C179441110025F8DB /* Default-568h@2x.png in Resources */,
 				18BB586F179441110025F8DB /* MainStoryboard.storyboard in Resources */,
